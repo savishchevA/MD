@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">lab3</string>
+    <string name="name">Имя</string>
+    <string name="surname">Фамилия</string>
+    <string name="send">Отправить</string>
+    <string name="save">Сохранить</string>
+    <string name="delete">Удалить</string>
+</resources>
+
+

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">lab3</string>
+    <string name="name">Name</string>
+    <string name="surname">Surname</string>
+    <string name="send">Send</string>
+    <string name="save">Save</string>
+    <string name="delete">Delete</string>
+</resources>
+
+
